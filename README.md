@@ -4,7 +4,7 @@ SwipeBackLayout
 This project is based on [SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout), but this is an Android Studio project, so you can easily import to Android Studio.
 
 You can also build with gradle use the command line. notice it require gradle version 1.9+.
-===
+---
 
 An Android library that help you to build app with swipe back gesture.
 
