@@ -9,11 +9,11 @@ This project is based on [SwipeBackLayout](https://github.com/Issacw0ng/SwipeBac
 
 ## Requirement
 
-Studio version 0.0.4
+Studio version 0.4.0
+
 gradle version 1.9+
 
 ![](https://github.com/Issacw0ng/SwipeBackLayout/blob/master/art/screenshot.png?raw=true)
-
 
 Demo Apk
 ===
